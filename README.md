@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About
+I am **Daniel Tiskin**, a halfbred linguist-philosopher with a track of affiliations primarily with [St Petersburg University](https://spbu.ru/) & [HSE St Petersburg](https://spb.hse.ru/). I have taught logic, basic formal syntax & semantics, and philosophy.
 
-You can use the [editor on GitHub](https://github.com/nombretemporal/nombretemporal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+When pressed to do research, I usually study the Russian language in its syntactic and semantic aspects or explore the philosophical and semantic dimension of propositional attitude reports. As of 2022, I am part of [one on-going team project](https://rscf.ru/project/22-18-00591/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One more thing I am doing is school olympiads; see also my [amateur data science essays](https://github.com/nombretemporal/school-olympiads) on that topic.
 
-### Markdown
+## Teaching
+Here are some of the more contentful teaching materials that I produced:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- linguistics
+- logic
+- philosophy
+- miscellanea
 
-```markdown
-Syntax highlighted code block
+## Research
+Some of my more reasonable contributions to...
 
-# Header 1
-## Header 2
-### Header 3
+- linguistics
+- philosophy of language
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nombretemporal/nombretemporal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+I am available by e-mail, `daniel.tiskin@gmail.com` or—if urgent—via [Telegram](https://t.me/tiskin). Much of my work is available at [Academia.edu](https://spbu.academia.edu/tiskin), and some teaching materials are at [my older personal page](https://sites.google.com/view/tiskin).
