@@ -8,7 +8,7 @@ One more thing I am doing is school olympiads; see also my [amateur data science
 ## Teaching
 Here are some of the more contentful teaching materials that I produced:
 
-- linguistics
+- [linguistics](teaching/linguistics.md)
 - logic
 - philosophy
 - miscellanea
