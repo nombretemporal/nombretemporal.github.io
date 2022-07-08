@@ -16,8 +16,8 @@ Here are some of the more contentful teaching materials that I produced:
 ## Research
 Some of my more reasonable contributions to...
 
-- linguistics
+- [linguistics](research/linguistics.md)
 - philosophy of language
 
 ## Contact
-I am available by e-mail, `daniel.tiskin@gmail.com` or—if urgent—via [Telegram](https://t.me/tiskin). Much of my work is available at [Academia.edu](https://spbu.academia.edu/tiskin), and some teaching materials are at [my older personal page](https://sites.google.com/view/tiskin).
+I am available by e-mail, `daniel.tiskin@gmail.com` or — if urgent — via [Telegram](https://t.me/tiskin). Much of my work is available at [Academia.edu](https://spbu.academia.edu/tiskin), and some teaching materials are at [my older personal page](https://sites.google.com/view/tiskin).
