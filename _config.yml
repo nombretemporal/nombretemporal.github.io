@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Daniel Tiskin
-description: linguist {and, or} philosopher</br>St Petersburg, Russia</br>{% include figure image_path="selfie.jpg" alt="Daniel Tiskin" caption="Daniel in his natural habitat" %}
+description: linguist {and, or} philosopher</br>St Petersburg, Russia
+image: selfie.jpg
