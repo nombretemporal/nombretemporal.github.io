@@ -13,4 +13,4 @@ Once prompted to write an _introduction to formal semantics_, I did the job by a
 ## Contact
 I am available by e-mail, `daniel.tiskin@gmail.com` or—if urgent—via [Telegram](https://t.me/tiskin).
 
-Much of my ealier work is available at [Academia.edu](https://spbu.academia.edu/tiskin), and some teaching materials are at [my older personal page](https://sites.google.com/view/tiskin).
+Much of my earlier work is available at [Academia.edu](https://spbu.academia.edu/tiskin), and some teaching materials are at [my older personal page](https://sites.google.com/view/tiskin).
