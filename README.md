@@ -10,6 +10,8 @@ One more thing I am doing is school olympiads, primarily in the Russian language
 
 Once prompted to write an _introduction to formal semantics_, I did the job by and large but fell short of pulling it through the publishing pipeline—at least for now, so it can be found [here](teaching/Book.01.2023.posterior.pdf) (in Russian).
 
+And [here](www.youtube.com/@daniel.tiskin) is my juvenile YouTube channel.
+
 ## Contact
 I am available by e-mail, `daniel.tiskin@gmail.com` or—if urgent—via [Telegram](https://t.me/tiskin).
 
